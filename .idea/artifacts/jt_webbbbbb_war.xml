@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jt-webbbbbb:war">
+    <output-path>$PROJECT_DIR$/jt-parent/jt-webbbbbb/target</output-path>
+    <root id="archive" name="jt-webbbbbb-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jt-webbbbbb:war exploded" />
+    </root>
+  </artifact>
+</component>
